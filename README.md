@@ -36,7 +36,8 @@ El sistema modela una jerarquía de clases para gestionar vehículos, aplicando 
 
 ```text
 ├── GestionVehicular_POO_Cecil Quimey Azuara Yañez.cpp   # Código fuente principal en C++
-└── README.md                                   # Documentación del proyecto
+└── README.md                                # Documentación del proyecto
+└── GestionVehicular_POO_Cecil Quimey Azuara Yañez.pdf  # Reporte del proyecto
 ```
 
 ---
