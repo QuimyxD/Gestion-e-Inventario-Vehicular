@@ -73,9 +73,10 @@ El método `main()` ejecuta 4 escenarios para verificar el correcto funcionamien
 
 ---
 
-## Autor:
+## Autor y Créditos
 
-* **Institución:** Universidad de Guanajuato (Campus Irapuato-Salamanca)
-* **Programa:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial
-* **Asignatura:** Programación Orientada a Objetos I
-* **Alumno:** Cecil Quimey Azuara Yáñez
+**Cecil Quimey Azuara Yáñez**
+
+- **Carrera:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial (LIDIA).
+- **Institución:** Universidad de Guanajuato – División de Ingenierías (Campus Irapuato - Salamanca).
+- **Asignatura:** Fundamentos del Análisis de Datos.
