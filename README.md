@@ -80,4 +80,4 @@ El método `main()` ejecuta 4 escenarios para verificar el correcto funcionamien
 
 - **Carrera:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial (LIDIA).
 - **Institución:** Universidad de Guanajuato – División de Ingenierías (Campus Irapuato - Salamanca).
-- **Asignatura:** Fundamentos del Análisis de Datos.
+- **Asignatura:** Programación Orientada a Objetos.
